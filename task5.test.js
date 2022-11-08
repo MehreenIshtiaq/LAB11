@@ -5,7 +5,7 @@ test ("testing isThere", () => {
 }
 );
 
-test ("testing isThere case2", () => {
-    expect(isThere(40)).toBe(false);
-}
-);
+// test ("testing isThere case2", () => {
+//     expect(isThere(40)).toBe(false);
+// }
+// );

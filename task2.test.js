@@ -5,7 +5,7 @@ test ("testing mutiply_sum", () => {
 }
 );
 
-test ("testing mutiply_sum case2", () => {
-    expect(mutiply_sum(3, 5, 10)).toBe(35);
-}
-);
+// test ("testing mutiply_sum case2", () => {
+//     expect(mutiply_sum(3, 5, 10)).toBe(35);
+// }
+// );
